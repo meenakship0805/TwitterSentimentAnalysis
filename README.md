@@ -42,6 +42,7 @@ You can explore each step as an individual R script:
 11_hashtag_analysis.R – Analyze frequent hashtags
 12_top_tweeters.R – Top contributors and timeline
 13_wordcloud.R – Generate word clouds
+
 📌 Notes
 Make sure you store your Twitter API credentials securely and don’t push them to GitHub.
 This project is a lexical approach, meaning it uses word-matching for sentiment—not machine learning.
