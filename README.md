@@ -29,8 +29,10 @@ script_running.R
 🔹 Modular Version (Step-by-step Learning)
 You can explore each step as an individual R script:
 
-01_authentication.R – Setup and authenticate with Twitter using rtweet
-02_tweet_extraction.R – Fetch tweets for a keyword/hashtag
+01_authentication.R – Setup and authenticate with Twitter using rtweet.
+
+02_tweet_extraction.R – Fetch tweets for a keyword/hashtag.
+
 03_word_database.R – Load custom positive/negative word lists
 04_cleaning_data.R – Clean and normalize tweet text
 05_emoticon_handling.R – Handle emojis/emoticons (optional)
