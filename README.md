@@ -33,17 +33,28 @@ You can explore each step as an individual R script:
 
 02_tweet_extraction.R – Fetch tweets for a keyword/hashtag.
 
-03_word_database.R – Load custom positive/negative word lists
-04_cleaning_data.R – Clean and normalize tweet text
-05_emoticon_handling.R – Handle emojis/emoticons (optional)
-06_score_sentiment.R – Apply sentiment scoring on tweets
-07_func_on_tweet.R – Define helper functions
-08_graphs.R – Visualize sentiment with bar plots
-09_percentage_calc.R – Calculate sentiment proportions
-10_level_of_sentiment.R – Classify tweet polarity
-11_hashtag_analysis.R – Analyze frequent hashtags
-12_top_tweeters.R – Top contributors and timeline
-13_wordcloud.R – Generate word clouds
+03_word_database.R – Load custom positive/negative word lists.
+
+04_cleaning_data.R – Clean and normalize tweet text.
+
+05_emoticon_handling.R – Handle emojis/emoticons (optional).
+
+06_score_sentiment.R – Apply sentiment scoring on tweets.
+
+07_func_on_tweet.R – Define helper functions.
+
+08_graphs.R – Visualize sentiment with bar plots.
+
+09_percentage_calc.R – Calculate sentiment proportions.
+
+10_level_of_sentiment.R – Classify tweet polarity.
+
+11_hashtag_analysis.R – Analyze frequent hashtags.
+
+12_top_tweeters.R – Top contributors and timeline.
+
+13_wordcloud.R – Generate word clouds.
+
 
 📌 Notes
 Make sure you store your Twitter API credentials securely and don’t push them to GitHub.
