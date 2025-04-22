@@ -1,5 +1,5 @@
 library(ROAuth)
-library(twitteR)
+library(rtweet)
 
 consumer_key <-"AKJsxNqX2D8uTo9orgjRirvWL"
 consumer_secret <- "QOKk0ctHhbXNQ5QaipqofrZQzWM92mfkcoP60xe7HJzjSUCz6F"
